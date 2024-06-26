@@ -1,0 +1,5 @@
+outs:
+- md5: 20cadfb082ee3cf74d45460d4183d8e8
+  size: 14116028
+  hash: md5
+  path: Football_teams_price_data.csv
